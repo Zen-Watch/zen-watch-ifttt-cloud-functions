@@ -10,11 +10,12 @@ We have added a folder for different languages - Javascript, Python, Rust. Pl
 ### Ideas
 You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
-- Build Web3 protocol clients such as Lit Actions, Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
-- Build a non-custodial cloud, hot wallet for EVM, Non-EVM
+- Build Web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
+- Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs
+- Build a client for IPFS, Arweave or Fission Codes FVM
 - Build an Email Client / SMTP bot
-- Build a Message Queue connector - Kafka, SQS
-- Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, your favorite DB
+- Build a Message Queue connector - Kafka, SQS or your favorite
+- Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase, Picone Vector DB for LLM Applications
 - Customize existing bots to your needs
 
 ### Submit to Zen.Watch
@@ -25,3 +26,8 @@ You can use this IFTTT Cloud Functions pattern to build any recipies.Some sample
 ### Coding Best Practices
 - Please make sure code and configuration / secrets are separated toa void accidentally private information exposure. 
 - Zen.Watch will release vetted template, best practices as examples for the above, stay tuned!
+
+### Index of Keywords
+- EOA - Externally owned accounts, i.e., user owned wallets for a blockchain such as Ethereum or Bitcoin
+- LIT Action - Web3 Actions are immutable code with access conditions uploaded to IPFS by LIT Protocol
+- LIT PKP - Programmable Key Pairs are NFT based Wallets backed by LIT protocol's Multi-Party-Computation (MPC) Network
