@@ -8,7 +8,7 @@ We plan to add to more fun IFTTT recipes to this open-source repository over the
 We have added a folder for different languages - Javascript, Python, Rust. Pl
 
 ### Ideas
-You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
+You can use this IFTTT Cloud Functions pattern to build any recipies. Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
 - Build Web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
 - Build a Zero-Knowledge (ZK) Proof generator & verifier based on IFTTT trigger payload
