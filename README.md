@@ -7,8 +7,16 @@ We plan to add to more fun IFTTT recipes to this open-source repository over the
 
 We have added a folder for different languages - Javascript, Python, Rust. Pl
 
-### Developing new code
-Please fork the repo, create your cloud functions (Lambda, Cloudflare Worker or serverless function from any other platform) & test it locally.
+### Ideas
+You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
+- Build bots for Twitter, Farcaster, Telegram
+- Build a non-custodial cloud, hot wallet for EVM, Non-EVM
+- Build an Email Client / SMTP bot
+- Build a Message Queue connector - Kafka, SQS
+- Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, your favorite DB
+- Customize existing bots to your needs
 
 ### Submit to Zen.Watch
-Once you are satisfied, submit a pull request to the upstream zen.watch repository.
+- Please fork the repo, create your cloud functions (Lambda, Cloudflare Worker or any other platform)
+- Test it locally
+- Once you are satisfied, submit a pull request to the upstream zen.watch repository
