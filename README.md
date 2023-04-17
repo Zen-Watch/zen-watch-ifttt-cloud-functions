@@ -33,4 +33,4 @@ You can use this IFTTT Cloud Functions pattern to build any recipies.Some sample
 ### Index of Keywords
 - EOA - Externally owned accounts, i.e., user owned wallets for a blockchain such as Ethereum or Bitcoin
 - LIT Action - Web3 Actions are immutable code with access conditions uploaded to IPFS by LIT Protocol
-- LIT PKP - Programmable Key Pairs are NFT based Wallets backed by LIT protocol's Multi-Party-Computation (MPC) Network
+- LIT PKP - Programmable Key Pairs are NFTs, which are also Wallets backed by LIT protocol's Multi-Party-Computation (MPC) Network
