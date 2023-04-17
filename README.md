@@ -29,7 +29,7 @@ You can use this IFTTT Cloud Functions pattern to build any recipies. Some sampl
 
 ### Coding Best Practices
 - Please make sure code and configuration / secrets are separated toa void accidentally private information exposure. 
-- Zen.Watch will release vetted template, best practices as examples for the above, stay tuned!
+- Zen.Watch will release vetted template, best practices & blueprints as examples for the above, stay tuned!
 
 ### Index of Keywords
 - EOA - Externally owned accounts, i.e., user owned wallets for a blockchain such as Ethereum or Bitcoin
