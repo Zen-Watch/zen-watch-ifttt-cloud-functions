@@ -17,7 +17,7 @@ You can use this IFTTT Cloud Functions pattern to build any recipies.Some sample
 - Build an Email Client with SMTP 
 - Build a Message Queue connector - Kafka, SQS or your favorite
 - Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase 
-- Build a LLM Clould Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
+- Build a LLM Cloud Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
 - Build an an integration for wallets such as Rollup.id
 - Customize existing cloud functions to your needs using the AI Console on our [admin portal](https://admin.zen.watch)
 
