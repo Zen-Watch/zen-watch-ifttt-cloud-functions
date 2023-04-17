@@ -11,13 +11,14 @@ We have added a folder for different languages - Javascript, Python, Rust. Pl
 You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
 - Build Web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
+- Build a Zero-Knowledge (ZK) Proof Generator based on IFTTT trigger payload
 - Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs
 - Build a client for IPFS, Arweave or Fission Codes FVM
 - Build an Email Client with SMTP 
 - Build a Message Queue connector - Kafka, SQS or your favorite
 - Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase 
 - Build a LLM Clould Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
-- Build an an integration for wallets such as rollup.id
+- Build an an integration for wallets such as Rollup.id
 - Customize existing cloud functions to your needs using the AI Console on our [admin portal](https://admin.zen.watch)
 
 ### Submit to Zen.Watch
