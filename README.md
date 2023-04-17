@@ -11,8 +11,9 @@ We have added a folder for different languages - Javascript, Python, Rust. Pl
 You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
 - Build Web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
-- Build a Zero-Knowledge (ZK) Proof Generator based on IFTTT trigger payload
-- Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs
+- Build a Zero-Knowledge (ZK) Proof generator & verifier based on IFTTT trigger payload
+- Build a Shamir Secret Sharing (SSS) key splitter & merger based on IFTTT trigger payload
+- Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs, AWS KMS
 - Build a client for IPFS, Arweave or Fission Codes FVM
 - Build an Email Client with SMTP 
 - Build a Message Queue connector - Kafka, SQS or your favorite
