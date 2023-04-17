@@ -5,7 +5,7 @@ We are maintaining this repo for the developers who prefer to build IFTTT templa
 
 We plan to add to more fun IFTTT recipes to this open-source repository over the coming weeks and months! Stay tuned!
 
-We have added a folder for different languages - Javascript, Python, Rust. Pl
+We have added a folder for different languages & environments - Javascript, Python, Rust, AWS, Google Cloud, Azure, Cloudflare Workers
 
 ### Ideas
 You can use this IFTTT Cloud Functions pattern to build any recipies. Some samples are given below: 
