@@ -10,6 +10,7 @@ We have added a folder for different languages - Javascript, Python, Rust. Pl
 ### Ideas
 You can use this IFTTT Cloud Functions pattern to build any recipies.Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
+- Build Web3 protocol clients such as Lit Actions, Custom Uniswap Trading Strategies, etc
 - Build a non-custodial cloud, hot wallet for EVM, Non-EVM
 - Build an Email Client / SMTP bot
 - Build a Message Queue connector - Kafka, SQS
