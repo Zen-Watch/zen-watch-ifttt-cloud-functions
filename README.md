@@ -21,3 +21,7 @@ You can use this IFTTT Cloud Functions pattern to build any recipies.Some sample
 - Please fork the repo, create your cloud functions (Lambda, Cloudflare Worker or any other platform)
 - Test it locally
 - Once you are satisfied, submit a pull request to the upstream zen.watch repository
+
+### Coding Best Practices
+- Please make sure code and configuration / secrets are separated toa void accidentally private information exposure
+-- Zen.Watch will release vetted template, best practices as examples for the above, stay tuned!
