@@ -1,3 +1,6 @@
 name = "workers-fc-action"
 main = "src/index.ts"
 compatibility_date = "2023-04-17"
+compatibility_flags = [ "nodejs_compat" ]
+[vars]
+MNEMONIC = "<enter-your-farcaster-recovery-phrase>"
