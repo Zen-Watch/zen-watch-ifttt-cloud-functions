@@ -8,7 +8,11 @@ We plan to add to more fun IFTTT recipes to this open-source repository over the
 We have added a folder for different languages & environments - Javascript, Python, Rust, AWS, Google Cloud, Azure, Cloudflare Workers
 
 ### Request for Ecosystem Proposals
-You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. Never start from scratch. Some samples are given below: 
+You can use this Zen.Watch IFTTT Cloud Functions pattern to build powerful recipies that save time. 
+
+Never start from scratch. Write once, Reuse anytime.
+
+Some samples are given below: 
 
 - Build bots for Twitter, Farcaster, Telegram
 - Build an Email / SMTP client 
