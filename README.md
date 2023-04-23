@@ -10,11 +10,12 @@ We have added a folder for different languages & environments - Javascript, Pyth
 ### Request for Ecosystem Proposals
 You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. Never start from scratch. Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
-- Build an Email Client with SMTP 
+- Build an Email / SMTP client 
+- Build a web3 wallet messaging / notification client using XMTP, Push Protocol
 - Build a Forta.org integration to detect real-time web3 threads and notify 
 - Build an email news integration and send custom notifications based on on-chain events with paragraph.xyz or substack
 - Build no-code itegrations to capture on-chain events & custom messages directly to your notion
-- Build web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
+- Build web3 protocol clients such as Uniswap Trading Strategies, AAVE Lending & more
 - Build a Zero-Knowledge (ZK) proof generator & verifier based on IFTTT trigger payload
 - Build a Shamir Secret Sharing (SSS) key splitter & merger based on IFTTT trigger payload
 - Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs, AWS KMS
