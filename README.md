@@ -9,6 +9,7 @@ We have added a folder for different languages & environments - Javascript, Pyth
 
 ### Request for Ecosystem Proposals
 You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. Never start from scratch. Some samples are given below: 
+
 - Build bots for Twitter, Farcaster, Telegram
 - Build an Email / SMTP client 
 - Build a web3 wallet messaging / notification client using XMTP, Push Protocol
