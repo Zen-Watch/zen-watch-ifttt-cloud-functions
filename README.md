@@ -18,6 +18,7 @@ You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. 
 - Build custom on-chain transaction templates for specific use-cases cross-chain bridging, NFT airdrops, NFT mints
 - Build a client for IPFS, Arweave or Fission Codes FVM
 - Build an Email Client with SMTP 
+- Build a GPRC client to support non-rest production servers / gateways
 - Build a Message Queue Client - Kafka, SQS or your favorite
 - Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase 
 - Build a LLM Cloud Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
