@@ -8,7 +8,7 @@ We plan to add to more fun IFTTT recipes to this open-source repository over the
 We have added a folder for different languages & environments - Javascript, Python, Rust, AWS, Google Cloud, Azure, Cloudflare Workers
 
 ### Ideas
-You can use this IFTTT Cloud Functions pattern to build any recipies. Some samples are given below: 
+You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. Some samples are given below: 
 - Build bots for Twitter, Farcaster, Telegram
 - Build no-code itegrations to capture on-chain events & custom messages directly to your notion
 - Build web3 protocol clients such as Uniswap Trading Strategies, XMTP, Push Protocol messaging, AAVE Lending & more
