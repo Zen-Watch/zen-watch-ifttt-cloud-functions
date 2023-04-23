@@ -18,6 +18,7 @@ You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. 
 - Build web3 protocol clients such as Uniswap Trading Strategies, AAVE Lending & more
 - Build a Zero-Knowledge (ZK) proof generator & verifier based on IFTTT trigger payload
 - Build a Shamir Secret Sharing (SSS) key splitter & merger based on IFTTT trigger payload
+- Build a MPC wallet integration to trigger based on-chain events like LIT or any other MPC provider
 - Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs, AWS KMS
 - Build custom on-chain transaction templates for specific use-cases cross-chain bridging, NFT airdrops, NFT mints
 - Build a client for IPFS, Arweave or Fission Codes FVM
