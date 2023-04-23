@@ -20,7 +20,7 @@ You can use this IFTTT Cloud Functions pattern to build any recipies. Some sampl
 - Build a Message Queue Client - Kafka, SQS or your favorite
 - Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase 
 - Build a LLM Cloud Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
-- Build automation for Account Abstraction wallets such as Rollup.id, Pimlico
+- Build on-chain automation for Account Abstraction wallets such as Rollup.id, Pimlico
 - Customize existing cloud functions to your needs using the AI Console on our [admin portal](https://admin.zen.watch)
 
 ### Submit to Zen.Watch
