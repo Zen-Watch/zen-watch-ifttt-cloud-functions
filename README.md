@@ -13,6 +13,7 @@ You can use this Zen.Watch IFTTT Cloud Functions pattern to build any recipies. 
 - Build bots for Twitter, Farcaster, Telegram
 - Build an Email / SMTP client 
 - Build a web3 wallet messaging / notification client using XMTP, Push Protocol
+- Build an OpenAI client, to pass through your prompt and on-chain data to ChatGPT for on-demand AI customization
 - Build a Forta.org integration to detect real-time web3 threads and notify 
 - Build an email news integration and send custom notifications based on on-chain events with paragraph.xyz or substack
 - Build no-code itegrations to capture on-chain events & custom messages directly to your notion
