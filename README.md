@@ -10,7 +10,7 @@ We have added a folder for different languages & environments - Javascript, Pyth
 ### Request for Ecosystem Proposals
 You can use this Zen.Watch IFTTT Cloud Functions pattern to build powerful recipies that save time. 
 
-Never start from scratch. Write once, Reuse anytime.
+Never start from scratch. Write once, Customize, Reuse anytime.
 
 Some samples are given below: 
 
