@@ -17,14 +17,11 @@ Some samples are given below:
 - Build bots for Twitter, Farcaster, Telegram
 - Build an Email / SMTP client 
 - Build a web3 wallet messaging / notification client using XMTP, Push Protocol
-- Build an OpenAI client, to pass through your prompt and on-chain data to ChatGPT for on-demand AI customization
-- Build a Forta.org integration to detect real-time web3 threads and notify 
-- Build an email news integration and send custom notifications based on on-chain events with paragraph.xyz or substack
-- Build no-code itegrations to capture on-chain events & custom messages directly to your notion
+- Build no-code itegrations to capture on-chain events & custom messages directly to your Notion
 - Build web3 protocol clients such as Uniswap Trading Strategies, AAVE Lending & more
 - Build a Zero-Knowledge (ZK) proof generator & verifier based on IFTTT trigger payload
 - Build a Shamir Secret Sharing (SSS) key splitter & merger based on IFTTT trigger payload
-- Build a MPC wallet integration to trigger based on-chain events like LIT or any other MPC provider
+- Build a MPC wallet integration to trigger based on-chain events like LIT, Quilibrium or any other MPC provider
 - Build a custom, non-custodial cloud, hot wallets for EVM, Non-EVM using EOA, LIT Actions, LIT PKPs, AWS KMS
 - Build custom on-chain transaction templates for specific use-cases cross-chain bridging, NFT airdrops, NFT mints
 - Build a client for IPFS, Arweave or Fission Codes FVM
@@ -32,8 +29,12 @@ Some samples are given below:
 - Build a Message Queue Client - Kafka, SQS or your favorite
 - Build a Database Client - MySQL, MongoDB, Cassandra, RocksDB, Firebase, Supabase, Polybase 
 - Build a graph protocol or Dune Analytics integration to query based on on-chain events
-- Build a LLM Cloud Function with Picone Vector DB and Open AI for personalization based on wallet & on-chain events & more
-- Build on-chain automation for Account Abstraction wallets such as Rollup.id, Pimlico
+- Build a generalized LLM Cloud Function with Picone Vector DB and Open AI / any other vendor for personalization based on wallet & on-chain events
+- Build an OpenAI client, to pass through your custom prompt and on-chain data to ChatGPT for on-demand AI customization
+- Build Account Abstraction automation for wallet infrastructure such as Rollup.id, Pimlico
+- Build a Forta.org integration to detect real-time web3 threads and notify 
+- Build an email news integration and send custom notifications based on on-chain events with paragraph.xyz or substack
+
 - Customize existing cloud functions to your needs using the AI Console on our [admin portal](https://admin.zen.watch)
 
 ### Submit to Zen.Watch
