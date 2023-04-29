@@ -34,7 +34,7 @@ Some samples are given below:
 - Build Account Abstraction automation for wallet infrastructure such as Rollup.id, Pimlico
 - Build a Forta.org integration to detect real-time web3 threads and notify 
 - Build an email news integration and send custom notifications based on on-chain events with paragraph.xyz or substack
-- Build a recipe to send XMTP message to unregistered wallet -> recipient gets a notif in TG. 
+- Build a recipe to send XMTP message to unregistered wallet -> recipient gets a notif in TG to onboards people to web3 messaging 
 - Build a recipe to send crypto graphic puzzles to be opened only by the intended wallets to reduce spam
 
 - Customize existing cloud functions to your needs using the AI Console on our [admin portal](https://admin.zen.watch)
