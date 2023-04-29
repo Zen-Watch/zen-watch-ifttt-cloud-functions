@@ -1,4 +1,4 @@
-# Zen.Watch IFTTT Cloud Functions
+# Zen.Watch IFTTT Non-Custodial Cloud Functions
 This is an open-source repository of IFTTT Cloud Functions / Bots submitted by the Zen.Watch Community
 
 We are maintaining this repo for the developers who prefer to build IFTTT templates with advanced read-write capabilities to web2 or web3.
