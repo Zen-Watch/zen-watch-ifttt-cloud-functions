@@ -13,7 +13,9 @@ const handler: Handler = async (event, context) => {
 
   const cast = await publishCast(
     wallet,
-    `Whale Alert: ${eventBody.value} of USDC moved from ${eventBody.from} to ${eventBody.to}`
+    `Whale Alert: ${new Intl.NumberFormat("en-US").format(
+      eventBody.value
+    )} of USDC moved from ${eventBody.from} to ${eventBody.to}`
   );
 
   console.log("Cast published: " + cast.hash);
